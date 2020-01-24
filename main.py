@@ -71,7 +71,3 @@ def main():
                 print('Unexpected error: {}'.format(e))
 
 main()
-
-'''
-f'Found: {id}, {image}, {locale}, {link},{color},{name},{brand},{gender},{sku}'
-'''
